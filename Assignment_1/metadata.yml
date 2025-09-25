@@ -1,0 +1,14 @@
+---
+:id: 340415608
+:submitters:
+- :name: DHAIRYA KUCHHAL
+  :email: cs5240396@cse.iitd.ac.in
+- :name: Siddhant Agrawal
+  :email: cs5240469@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-08-06 16:19:37.422271000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-08-06 09:19:37.422271000 Z
+:status: processed
+:score: 81.0
